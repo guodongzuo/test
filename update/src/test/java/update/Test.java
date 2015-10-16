@@ -2,6 +2,6 @@ package update;
 
 public class Test {
 	public static void main(String args[]){
-		System.out.println("abcde master A");
+		System.out.println("abcde master B");
 	}
 }
